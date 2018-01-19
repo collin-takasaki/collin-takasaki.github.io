@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/cosmoslogo.png
 title: COSMOS
 permalink: projects/COSMOS
 # All dates must be YYYY-MM-DD format!
