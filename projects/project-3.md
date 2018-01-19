@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Simple Circuit Analyzer
+permalink: projects/simple-circuit-analyzer
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-11-
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C++
+summary: A simple circuit analyzer made for EE 205.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
