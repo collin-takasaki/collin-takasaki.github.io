@@ -2,24 +2,18 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: COSMOS
+permalink: projects/COSMOS
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-08-10
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+  - Bitbucket
+  - JSON
+summary: Altered the JSON format used in COSMOS
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+[COSMOS](http://http://cosmos-project.org/) (Comprehensive Open-architecture Solution for Mission Operations Systems) is a system designed for communicating and controlling single objects or groups of objects.  By using COSMOS, telemetry data is passed between Agents (objects which collect, process, transmit, and receive data) or commands can be sent out and queued.  The COSMOS system is mainly designed with small spacecraft in mind, however, it can be used for many other different kinds of crafts.  
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In the source code of COSMOS, the format that is used to transmit telemetry data is JSON (JaveScript Object Notation).  The previous version of the JSON that was used sent every name-value pair as a separate entity.  My goal was to change it to a more proper JSON format that would increase the compatibility of COSMOS with other third-party software.  
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
