@@ -31,17 +31,15 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "",
+      "name": "networking systems",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "deconstructing algorithms",
       "keywords": [
       ]
     }
