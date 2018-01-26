@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://collin-takasaki.github.io/images/headshot.jpg",
     "email": "collint@hawaii.edu",
-    "phone": "",
     "website": "https://collin-takasaki.github.io",
     "summary": "I am student currently studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
@@ -22,8 +21,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "collin-takasaki",
+        "url": "http://linkedin.com/in/collin-takasaki"
       }
     ]
   },
