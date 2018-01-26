@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: images/cosmoslogo.png
 title: COSMOS Documentation
 permalink: projects/COSMOS-documentation
 # All dates must be YYYY-MM-DD format!
