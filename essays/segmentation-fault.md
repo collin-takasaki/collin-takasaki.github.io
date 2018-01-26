@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Segmentation Fault
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-17
+date: 2018-01-25
 labels:
   - Software Engineering
   - Learning
