@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: First Functions
+title: Final Project Idea
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-17
+date: 2018-03-20
 labels:
   - Software Engineering
   - Learning
