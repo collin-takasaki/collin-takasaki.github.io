@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Hello-World
-image: https://collin-takasaki.github.io/images/earth.jpg
+image: images/earth.jpg
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-17
 labels:
