@@ -20,4 +20,4 @@ In ICS314, my group worked on developing an application tailored for students do
 
 My contribution to the project was in the recipe database.  I defined the recipe database, created the "Add Recipe" that entered information into the database, as well as made the foundation for the "View Recipe" page (the formatting was handled by another member).  I also created the vendor database and gave it basic functionality (another member expanded its capabilities).  
 
-<img class="ui small image" src="https://constrainedcooking.github.io/images/viewrecipepage.PNG">
+<img class="ui image" src="https://constrainedcooking.github.io/images/viewrecipepage.PNG">
