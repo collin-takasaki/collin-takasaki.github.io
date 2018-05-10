@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-image: images/earth.jpg
 title: Hello World
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-17
@@ -10,6 +9,7 @@ labels:
   - Learning
   - Javascript
 ---
+<img class="ui small left floated image" src="../images/hello-world.jpg">
 
 It has only been a few weeks after I’ve been introduced to JavaScript.  The journey so far hasn’t been difficult, but I’m starting to wonder if that could be an issue.  It feels like I haven’t been exposed to enough of JavaScript to create an adequate response to the language. However, I can at least go over the little that I have experienced.
 
