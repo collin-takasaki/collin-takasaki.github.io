@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: images/earth.jpg
-title: Hello-World
+title: Hello World
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-17
 labels:
