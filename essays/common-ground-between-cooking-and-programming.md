@@ -15,9 +15,13 @@ labels:
 
 It’s a common saying that’s told to everyone, “practice makes perfect”, or the more accurate “practice makes permanent”.  Most of the time it’s told to athletes, however, it’s not exclusive to sports.  It’s actually applicable to anything that involves muscle memory, and last I checked, the brain is a muscle. 
 
+<img class="ui small left floated image" src="../images/brain.jpg">
+
 If the brain is exercised regularly, its processing ability can be maintained, and if repeated stimuli are applied, patterns can be learned.  In this way, many teachers try to use repetition to teach general solution methods to their students. For example, in EE367 (Computer Data Structures and Algorithms), we have used differing sorting methods and data structures repeatedly.  We had a few assignments which required extensive use of these methods and structures.  After those sections though, they still popped in following sections as options to use in order to lower time complexity of an algorithm.  These general type of solutions are also known as design patterns. 
 
 ## What You Were Told
+
+<img class="ui small left floated image" src="../images/shortcut.jpg">
 
 Design patterns are a kind of mental shortcut at your disposal.  If you are able to notice a large problem which contains a smaller problem you recognize, you can use the solution you know to help solve the larger problem.  The trick in all of this though, is to notice that the large problem can be broken up into smaller problems.  As a pastry chef once said “for every thing that you don’t know, there are 10 things you do know” (Chef Dan Brown at KCC).  In EE367, we use psudocode for almost all of our algorithms.  By using psudocode, the idea or method that we use to solve a problem is maintained, and can be applied to a wider variety of problems (coding in Python, JS, or C all require different syntax, but applying the psudocode to the language is still generally possible).  
 
