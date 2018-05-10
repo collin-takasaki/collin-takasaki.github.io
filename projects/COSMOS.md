@@ -17,3 +17,5 @@ summary: Altered the JSON format used in COSMOS
 
 In the source code of COSMOS, the format that is used to transmit telemetry data is JSON (JaveScript Object Notation).  The previous version of the JSON that was used sent every name-value pair as a separate entity.  My goal was to change it to a more proper JSON format that would increase the compatibility of COSMOS with other third-party software.  
  
+In order to make the necessary changes, I first had to learn JSON formatting. Afterwards, I had to search through the code to find where the JSON format was created in order to alter it.  By reading the code, I learned the importance of using relevant function and variable names.  The code also introduced me to new concepts such as hashmaps. 
+
